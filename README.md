@@ -4,7 +4,7 @@ Landing page fictícia criada para uma academia, com foco em apresentação de p
 
 ## Link do projeto
 
-Coloque aqui o link do GitHub Pages.
+ https://pedropagl.github.io/site-academia-imperio-fit/
 
 ## Tecnologias usadas
 
